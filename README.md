@@ -105,7 +105,7 @@ LLM application design · RAG · Multi-agent orchestration · Document intellige
 
 📫 **Let's build:** If you want a partner who turns AI research into a **production-ready** system, **reach out on Upwork.**
 
-**→ [Open Upwork and send a message](https://www.upwork.com/freelancers/~01c5b04b0c22735474)** *(replace this link with your public freelancer profile URL for one-click contact.)*
+**→ [Open Upwork and send a message](https://www.upwork.com/freelancers/~01c5b04b0c22735474)**
 
 ---
 
