@@ -30,7 +30,7 @@ I help startups and businesses ship **production AI systems** — not demos. Str
 
 Short list for busy buyers.
 
-- **AI Multi-Agent CRM Automation** — Lead → outreach → replies → calendar → call analytics in one orchestrated workflow. *🔒 Private repo — case study / demo on request.*
+- **AI Multi-Agent CRM Automation** — Lead → outreach → replies → calendar → call analytics in one orchestrated workflow.
 - **Omnichannel AI Sales Agent** — Stage-aware sales agent across chat, email, and voice with tools and flexible LLM providers. *🔒 Private repo — case study / demo on request.*
 - **Document Vector RAG API** — Async ingestion, embeddings, file-scoped retrieval for production document AI. *🔒 Private repo — case study / demo on request.*
 - **Medical RAG Chatbot** — Grounded Q&A over ingested docs, vector retrieval, containerized + CI/CD-oriented cloud path. *🔒 Private repo — case study / demo on request.*
